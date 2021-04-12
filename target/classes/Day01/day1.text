@@ -1,0 +1,21 @@
+Selenium Coding Challenge # Day 1
+
+Open chrome/firefox browser
+Launch the URL : https://www.worldometers.info/world-population/
+
+Keep getting the count of: 
+- Current World Population
+- Today:  Births, Deaths and population growth today
+- This Year:  Births, Deaths and population growth today
+
+while(true){
+	
+	keep getting the element text using selenium
+	print it on console
+
+	//break the loop after few secs (20 secs)
+}
+
+submit the assignment :
+Send your source code and screenshot of the console output.
+mail me at : naveenanimation20@gmail.com
